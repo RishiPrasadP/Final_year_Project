@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "cases": "Case Management",
+    "lawyers": "Find Advocates",
+    "complaint": "File Complaint",
+    "documents": "Documents Hub",
+    "knowledge": "Legal Knowledge",
+    "aiAssistant": "AI Assistant",
+    "notifications": "Notifications",
+    "profile": "Profile & Settings",
+    "login": "Sign In",
+    "register": "Register",
+    "logout": "Log Out"
+  },
+  "roles": {
+    "client": "Citizen / Client",
+    "lawyer": "Advocate / Lawyer",
+    "judge": "Judicial Officer / Judge",
+    "admin": "System Admin"
+  },
+  "hero": {
+    "badge": "Government-Grade AI Platform",
+    "title": "Legal Intelligence Layer (LIL)",
+    "subtitle": "Next-generation legal automation, intelligent case management, and seamless justice delivery for Citizens, Advocates, Courts, and Administrators.",
+    "getStarted": "Get Started",
+    "exploreFeatures": "Explore Features",
+    "tryAI": "Ask AI Assistant"
+  },
+  "dashboards": {
+    "clientWelcome": "Welcome back,",
+    "lawyerOverview": "Advocate Dashboard Overview",
+    "judgeCauseList": "High Court Cause List & Today's Hearings",
+    "adminMetrics": "Platform Analytics & System Health",
+    "totalCases": "Total Cases",
+    "pendingHearings": "Pending Hearings",
+    "activeLawyers": "Active Advocates",
+    "disposedCases": "Disposed Cases"
+  },
+  "cases": {
+    "title": "Case Management",
+    "searchPlaceholder": "Search case number, title, or party name...",
+    "status": "Status",
+    "nextHearing": "Next Hearing",
+    "court": "Court",
+    "acts": "Relevant Acts",
+    "viewDetails": "View Case Timeline",
+    "complaintFiled": "Complaint Filed",
+    "underVerification": "Under Verification",
+    "investigation": "Investigation Phase",
+    "courtAssigned": "Court Assigned",
+    "hearingScheduled": "Hearing Scheduled",
+    "judgementPending": "Judgement Pending",
+    "disposed": "Case Disposed"
+  },
+  "complaint": {
+    "title": "File a New Legal Complaint",
+    "step1": "Basic Info",
+    "step2": "Incident Details",
+    "step3": "Evidence Upload",
+    "step4": "Witness Details",
+    "step5": "Review & Submit",
+    "submitBtn": "Submit Complaint to Portal"
+  },
+  "ai": {
+    "widgetTitle": "LIL AI Legal Companion",
+    "placeholder": "Ask any legal question (e.g. BNS Section 103, Bail procedure, Consumer Rights)...",
+    "disclaimer": "LIL AI provides legal information based on Indian Acts (BNS, BNSS, BSA). For official legal representation, consult an advocate."
+  },
+  "common": {
+    "search": "Global Search (Ctrl + K)",
+    "dark": "Dark Mode",
+    "light": "Light Mode",
+    "language": "Language",
+    "viewAll": "View All"
+  }
+}
